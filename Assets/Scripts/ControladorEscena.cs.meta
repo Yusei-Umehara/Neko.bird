@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c9508bf3929cbc1408e6219cc6266702
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - canvasPerdiste: {instanceID: 0}
+  - GameOverSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
